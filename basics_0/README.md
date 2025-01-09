@@ -1,7 +1,9 @@
 # holbertonschool-network
 Networking basics courses
 
-[OSI](https://github.com/Bomays/holbertonschool-network/blob/f134e4b87b7263d0838a3007b218c3cc1eb652de/basics_0/images/OSI.jpg)
+<p align="center">
+<img screen="https://github.com/Bomays/holbertonschool-network/blob/f134e4b87b7263d0838a3007b218c3cc1eb652de/basics_0/images/OSI.jpg"alt="OSI" width="auto"/>
+</p>
 
 ## Networking basics #0
 
