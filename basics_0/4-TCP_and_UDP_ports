@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Display listening ports and the corresponding program names
+#Display listening ports and the corresponding program names
 netstat -lp
