@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Show attached IPs
-ip addr show | grep inet | awk '{print $2}' | awk -F/ '{print $1}'
