@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Change your home IP address
+cp etc/hosts etc/hosts.backup
+
+echo "127.0.0.2 localhost" > etc/hosts
+echo "8.8.8.8 facebook.com" >> etc/hosts
+
+echo "Updated /etc/hosts file:"
+cat etc/hosts
