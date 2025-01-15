@@ -1,1 +1,3 @@
-# holbertonschool-Fix_My_Code_Challenge
+# Holbertonschool Network
+
+A repository where we discover the scenes behind the internet.
